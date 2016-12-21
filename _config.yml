@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   en cualquier establecimiento comercial en un solo paso y de pago anual, que tiene como objetivo
   en un futuro prestar servicios de economia colectiva.
 baseurl: "/toolware" # the subpath of your site, e.g. /blog
-url: "https://link-coala.github.io/toolware/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://link-coala.github.io/toolware" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: omj530
 github_username:  link-coala
 
